@@ -2,7 +2,7 @@ const path = require('path');
 
 const ROOT_DIR = path.join(__dirname, '..');
 const SRC_DIR = path.join(ROOT_DIR, 'src');
-const BUILD_DIR = path.join(ROOT_DIR, 'build');
+const BUILD_DIR = path.join(ROOT_DIR, 'react_userlogin', 'build');
 
 const mainFile = path.join(SRC_DIR, 'index.tsx');
 
